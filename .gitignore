@@ -1,0 +1,26 @@
+# Track only the runnable skill-set plugin, usage documentation, and its tests.
+/*
+!/.gitignore
+!/README.md
+!/plugins/
+!/tests/
+
+/plugins/*
+!/plugins/skillset-copilot/
+/tests/*
+!/tests/test_copilot.py
+!/tests/PILOT.md
+
+# Local artifacts are excluded even if created inside a tracked directory.
+**/.DS_Store
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.venv/
+**/.env
+**/.env.*
+**/.skillset-*.json
+**/skillset_sessions/
+**/.pending-*
+**/.export-*/
+**/.lock

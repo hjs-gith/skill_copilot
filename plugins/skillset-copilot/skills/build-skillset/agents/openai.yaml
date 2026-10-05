@@ -1,0 +1,6 @@
+interface:
+  display_name: "Bilingual Skill-Set Copilot"
+  short_description: "Draft Korean–English job skill sets through conversation"
+  default_prompt: "Use $build-skillset to create a Korean–English skill set for my work."
+policy:
+  allow_implicit_invocation: true

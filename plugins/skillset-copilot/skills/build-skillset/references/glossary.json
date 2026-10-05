@@ -1,0 +1,15 @@
+{
+  "aliases": [
+    ["secondary battery", "rechargeable battery", "battery", "이차전지", "2차전지", "배터리"],
+    ["electrode", "전극"], ["coating", "코팅"], ["slurry", "슬러리"],
+    ["process", "공정"], ["equipment", "설비", "장비"], ["procurement", "구매"],
+    ["cell development", "셀 개발"], ["manufacturing", "production", "제조", "생산"],
+    ["quality", "품질"], ["yield", "수율"], ["defect", "불량"],
+    ["supply chain", "SCM", "공급망"], ["demand", "수요"], ["logistics", "물류"],
+    ["research", "R&D", "연구개발"], ["materials", "소재", "재료"],
+    ["ESS", "energy storage", "에너지저장장치"], ["formation", "화성"],
+    ["safety", "안전"], ["maintenance", "보전", "유지보수"],
+    ["finance", "재무"], ["accounting", "회계"], ["human resources", "인사"]
+  ],
+  "conventions": "Preserve accepted acronyms. Alias matching supports retrieval, not automatic equivalence of skill definitions."
+}
