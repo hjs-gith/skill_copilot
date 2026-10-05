@@ -11,6 +11,9 @@
 !/tests/test_copilot.py
 !/tests/PILOT.md
 
+# Private reference packs must remain local.
+/plugins/skillset-copilot/skills/build-skillset/data/
+
 # Local artifacts are excluded even if created inside a tracked directory.
 **/.DS_Store
 **/__pycache__/
